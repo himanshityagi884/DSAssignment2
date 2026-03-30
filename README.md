@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Author
 
-**Ishika Rana**
+Himanshi Tyagi
 B.Tech Computer Science Engineering
 
 ---
@@ -175,4 +175,4 @@ This project is created for academic and learning purposes as part of Data Scien
 
 ## 🙌 Acknowledgement
 
-Project developed and analyzed by **Ishika Rana**
+Project developed and analyzed by **Himanshi Tyagi**
